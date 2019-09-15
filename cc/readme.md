@@ -1,4 +1,5 @@
 To analyze ciclomatic complexity:
+
 `radon cc bad_cc.py`
 
 and
